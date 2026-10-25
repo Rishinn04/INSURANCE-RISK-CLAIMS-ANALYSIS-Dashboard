@@ -32,3 +32,4 @@ The primary objective of this project is to transform raw insurance data into me
 - The dashboard enables interactive comparison of claim metrics by vehicle use, car make, age group, year, education, coverage zone, and marital status.
 
 Screenshots/ Demos
+![Dasboard Preview](https://github.com/Rishinn04/INSURANCE-RISK-CLAIMS-ANALYSIS-Dashboard/blob/main/project.png)
