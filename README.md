@@ -8,7 +8,6 @@ The dashboard presents key performance indicators (KPIs), including total polici
 The primary objective of this project is to transform raw insurance data into meaningful insights that support data-driven decision-making, improve risk assessment, and help insurance companies better understand claim behavior and customer segments.
 
 ## Data Source
-## 1. Data Source
 
 **Source:** `insurance_policies_data.xlsx` (Excel dataset used for the project).
 
