@@ -7,6 +7,15 @@ The **Insurance Risk & Claim Analysis Dashboard** is an interactive data visuali
 The dashboard presents key performance indicators (KPIs), including total policies, total claim amount, average claim frequency, and average claim amount, alongside visualizations that help identify trends and patterns in insurance claims over time.
 The primary objective of this project is to transform raw insurance data into meaningful insights that support data-driven decision-making, improve risk assessment, and help insurance companies better understand claim behavior and customer segments.
 
+## Data Source
+## 1. Data Source
+
+**Source:** `insurance_policies_data.xlsx` (Excel dataset used for the project).
+
+The dataset contains **37,542 rows and 16 columns** of insurance policy data. It includes information related to policyholders, vehicle characteristics, claim amounts, claim frequency, coverage zones, education levels, marital status, and other factors used to analyze insurance claims and risk patterns.
+
+The dataset was analyzed using **Microsoft Power BI** to identify claim trends, compare customer segments, and visualize insurance risk indicators through interactive dashboards.
+
 
 ## Business Questions Answered
 - What is the total number of insurance claims
